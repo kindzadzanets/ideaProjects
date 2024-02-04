@@ -1,6 +1,6 @@
 package lesson1;
 
-public class class1 {
+public class printPrintnl {
     public static void main(String[] args) {
 //  метод println - вывод параметра на экран с переходом курсора на новую строку
         System.out.println("Hello mutterFuck!");
