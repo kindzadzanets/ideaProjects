@@ -6,7 +6,7 @@ public class domashka {
                 System.out.println("Много лет размышлял я над жизнью земной.");
                 System.out.println("Много лет размышлял я над жизнью земной.");
                 System.out.println("Много лет размышлял я над жизнью земной.");
-                System.out.println("                                    Хуям");
+                System.out.println("                                 K  Хуям");
         }
 
 }
